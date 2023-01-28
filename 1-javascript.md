@@ -4,7 +4,7 @@
 * `const` is the new, but just constant
 
 # Test
-![paste_image](2023-01-27-17-59-51.png)
+![](img/2023-01-27-18-09-29_paste.png)
 
 # II. Arrow function!
 https://aisit.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/8211786#notes
