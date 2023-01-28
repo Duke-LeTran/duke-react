@@ -3,7 +3,13 @@
 * `let` is the new
 * `const` is the new, but just constant
 
-# II. Arrow function
+# Test
+![paste_image](2023-01-27-17-59-51.png)
+
+# II. Arrow function!
+https://aisit.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/8211786#notes
+
+![arrow_func](./img/2023-01-27-17-57-24.png)
 ## A. Old
 ```
 function printMyName(name) {
